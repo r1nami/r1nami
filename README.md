@@ -4,7 +4,7 @@
 
 afk ( away from keyboard ) ;<br/>
 w2i ( whisper to interact ) ;<br/>
-dnc (do not cover ) ;<br/>
+dnc ( do not cover ) ;<br/>
 rpdni ( roleplay do not interact ) ;<br/>
 dnc ( do not copy ).<br/>
 
